@@ -16,4 +16,4 @@ COPY . .
 EXPOSE 8080
 
 # コンテナ起動時にFlaskアプリケーションを起動
-CMD ["python", "./run.py"]
+CMD ["python", "./app.py"]
