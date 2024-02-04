@@ -1,5 +1,5 @@
 static/css/login_button.css
-
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
